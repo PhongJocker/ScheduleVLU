@@ -3,81 +3,184 @@ UX/UI for website [VLU Online](https://online.vlu.edu.vn)
 
 Run file main_(GUI).py for using this project
 
-<!-- ==================== COSMIC HEADER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1f2a44&height=220&section=header&text=Phong%20Jocker&fontSize=42&fontColor=00E5FF&animation=fadeIn"/>
-</p>
+
+<!-- ======================= GOD HERO ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Fresher+Software+Engineer;Building+Clean+%26+Scalable+Applications;Exploring+Modern+Web+Technologies;Always+Learning+%F0%9F%9A%80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:111827,45:00F5FF,70:8E2DE2,100:0D1117&height=320&section=header&text=PHONG%20JOCKER&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20with%20UI%20Thinking&descAlignY=65&descSize=20"/>
+</p>
+
+<!-- ======================= AVATAR ======================= -->
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="150" style="border-radius:50%; border:3px solid #00F5FF;" />
+</p>
+
+<!-- ======================= TYPING ======================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+Clean+%26+Modern+Interfaces;Frontend+Developer+%7C+UI+Focused;Learning+Fullstack+Step+by+Step;Turning+Ideas+Into+Real+Products" />
 </p>
 
 ---
 
-<!-- ==================== GALAXY PARALLAX ==================== -->
-<p align="center">
-<svg width="100%" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+# 🧊 Who Am I
 
-<rect width="800" height="260" fill="#0D1117"/>
+<div align="center">
+  <div style="
+    max-width:820px;
+    padding:32px;
+    border-radius:28px;
+    background: linear-gradient(145deg, rgba(255,255,255,0.06), rgba(255,255,255,0.015));
+    border:1px solid rgba(255,255,255,0.12);
+  ">
 
-<defs>
-  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.2"/>
-    <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-  </radialGradient>
-</defs>
+  👨‍💻 I’m **Phong Jocker**, a fresher software engineer from Vietnam  
+  🎨 I focus on **frontend development with strong UI/UX awareness**  
+  ⚡ I enjoy building **clean, smooth, and user-friendly interfaces**  
 
-<circle cx="400" cy="130" r="100" fill="url(#glow)" />
+  🧠 Currently improving:
+  - React & component architecture  
+  - Backend basics (Node.js, APIs)  
+  - Real-world project building  
 
-<!-- STARS -->
-<g fill="#00E5FF">
+  🎯 Goal:
+  → Become a **fullstack engineer who builds both logic & experience**
 
-  <circle cx="100" cy="40" r="1">
-    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-  </circle>
+  </div>
+</div>
 
-  <circle cx="200" cy="200" r="1.2">
-    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="600" cy="60" r="1">
-    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="700" cy="220" r="1.5">
-    <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-
-</g>
-
-<!-- FLOATING PARTICLES -->
-<g fill="#7F5AF0" opacity="0.7">
-
-  <circle cx="300" cy="100" r="2">
-    <animateTransform attributeName="transform" type="translate"
-      values="0 0; 10 5; 0 0" dur="6s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="500" cy="180" r="2">
-    <animateTransform attributeName="transform" type="translate"
-      values="0 0; -10 -5; 0 0" dur="7s" repeatCount="indefinite"/>
-  </circle>
-
-</g>
-
-</svg>
-</p>
 ---
 
-<!-- ==================== ABOUT ==================== -->
-## 👨‍🚀 About Me
+# ⚡ What I Do Best
 
-```txt
-Fresher Software Engineer focused on building clean, maintainable,
-and scalable web applications.
+<div align="center">
 
-• Strong foundation in programming fundamentals  
-• Passion for problem-solving and UI/UX clarity  
-• Continuously learning modern technologies  
+<div style="display:inline-block;padding:22px;margin:10px;border-radius:22px;
+background:rgba(255,255,255,0.05);
+border:1px solid rgba(255,255,255,0.1);">
 
-Goal: Grow into a dependable engineer who delivers high-quality software
+### 🎨 UI Focus
+- Clean layouts  
+- Consistent spacing  
+- Modern visual hierarchy  
+
+</div>
+
+<div style="display:inline-block;padding:22px;margin:10px;border-radius:22px;
+background:rgba(255,255,255,0.05);
+border:1px solid rgba(255,255,255,0.1);">
+
+### ⚙️ Code Quality
+- Readable structure  
+- Reusable components  
+- Maintainable logic  
+
+</div>
+
+<div style="display:inline-block;padding:22px;margin:10px;border-radius:22px;
+background:rgba(255,255,255,0.05);
+border:1px solid rgba(255,255,255,0.1);">
+
+### 🚀 Growth
+- Fast learner  
+- Self-improving daily  
+- Build → Learn → Improve  
+
+</div>
+
+</div>
+
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+# 🌌 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phongjocker&repo=DemoWebsiteWithAngular&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<div align="center">
+  <div style="
+    max-width:700px;
+    padding:22px;
+    border-radius:20px;
+    background:rgba(255,255,255,0.04);
+    border:1px solid rgba(255,255,255,0.08);
+  ">
+
+  🔹 Built with focus on **UI clarity & usability**  
+  🔹 Applied **component-based structure**  
+  🔹 Optimized for **performance & responsiveness**
+
+  </div>
+</div>
+
+---
+
+# 📊 GitHub Signal
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phongjocker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8E2DE2"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongjocker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=phongjocker&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=8E2DE2"/>
+</p>
+
+---
+
+# 🧠 Engineering Mindset
+
+<div align="center">
+  <div style="
+    max-width:760px;
+    padding:26px;
+    border-radius:22px;
+    background:rgba(255,255,255,0.04);
+    border:1px solid rgba(255,255,255,0.08);
+  ">
+
+  ✔ Build simple before complex  
+  ✔ Focus on user experience first  
+  ✔ Keep code clean and scalable  
+  ✔ Always improve from real projects  
+
+  </div>
+</div>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="mailto:phongjocker.1304.2k1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+</a>
+
+<a href="https://linkedin.com/in/phongjocker">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
+
+<a href="https://facebook.com/phongjocker.130401">
+  <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00F5FF"/>
+</a>
+
+</p>
+
+---
+
+<!-- ======================= FINAL FOOTER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:00F5FF,100:0D1117&height=160&section=footer"/>
+</p>
