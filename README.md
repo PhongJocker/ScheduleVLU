@@ -20,11 +20,11 @@ Run file main_(GUI).py for using this project
 <p align="center">
 
 <a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhongJocker&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?user=PhongJocker&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
 <a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhongJocker&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?user=PhongJocker&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
 </p>
