@@ -16,52 +16,57 @@ Run file main_(GUI).py for using this project
 
 <!-- ==================== GALAXY PARALLAX ==================== -->
 <p align="center">
-<svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
 
-<rect width="800" height="300" fill="#0D1117"/>
+<rect width="800" height="260" fill="#0D1117"/>
 
 <defs>
-  <radialGradient id="g" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.25"/>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.2"/>
     <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
   </radialGradient>
 </defs>
 
-<circle cx="400" cy="150" r="120" fill="url(#g)" />
+<circle cx="400" cy="130" r="100" fill="url(#glow)" />
 
-<!-- FAR STARS -->
-<g fill="#1f6feb" opacity="0.6">
-  <circle cx="50" cy="40" r="1">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 8 4; 0 0" dur="20s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="750" cy="260" r="1">
-    <animateTransform attributeName="transform" type="translate" values="0 0; -8 -4; 0 0" dur="22s" repeatCount="indefinite"/>
-  </circle>
-</g>
-
-<!-- MID -->
+<!-- STARS -->
 <g fill="#00E5FF">
-  <circle cx="200" cy="200" r="1.5">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 15 -10; 0 0" dur="12s" repeatCount="indefinite"/>
+
+  <circle cx="100" cy="40" r="1">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="600" cy="60" r="1.2">
-    <animateTransform attributeName="transform" type="translate" values="0 0; -15 10; 0 0" dur="14s" repeatCount="indefinite"/>
+
+  <circle cx="200" cy="200" r="1.2">
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
   </circle>
+
+  <circle cx="600" cy="60" r="1">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="700" cy="220" r="1.5">
+    <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
 </g>
 
-<!-- NEAR -->
-<g fill="#7F5AF0">
+<!-- FLOATING PARTICLES -->
+<g fill="#7F5AF0" opacity="0.7">
+
   <circle cx="300" cy="100" r="2">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 25 12; 0 0" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 10 5; 0 0" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="500" cy="200" r="2">
-    <animateTransform attributeName="transform" type="translate" values="0 0; -25 -12; 0 0" dur="9s" repeatCount="indefinite"/>
+
+  <circle cx="500" cy="180" r="2">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -10 -5; 0 0" dur="7s" repeatCount="indefinite"/>
   </circle>
+
 </g>
 
 </svg>
 </p>
-
 ---
 
 <!-- ==================== ABOUT ==================== -->
