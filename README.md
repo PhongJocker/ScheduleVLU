@@ -4,60 +4,87 @@ UX/UI for website [VLU Online](https://online.vlu.edu.vn)
 Run file main_(GUI).py for using this project
 
 
-<!-- ==================== COSMIC HEADER ==================== -->
+<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=200&section=header&text=Phong%20Jocker&fontSize=42&fontColor=00E5FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=200&section=header&text=Phong%20Jocker&fontSize=42&fontColor=00E5FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Fresher+Software+Engineer;Building+Clean+%26+Scalable+Solutions;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Fresher+Software+Engineer;Building+Clean+%26+Scalable+Solutions;Always+Learning+%F0%9F%9A%80"/>
 </p>
 
 ---
-<!-- ==================== INTERACTIVE PROJECT CARDS ==================== -->
-## 🚀 Orbiting Missions
 
+<!-- ==================== PARALLAX GALAXY ==================== -->
 <p align="center">
+<svg width="100%" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
 
-<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?user=PhongJocker&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
-</a>
+  <rect width="800" height="320" fill="#0D1117"/>
 
-<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?user=PhongJocker&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
-</a>
+  <defs>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
+  <circle cx="400" cy="160" r="130" fill="url(#coreGlow)" />
+
+  <!-- FAR -->
+  <g fill="#1f6feb" opacity="0.6">
+    <circle cx="50" cy="40" r="1">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 10 5; 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="280" r="1">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -10 -5; 0 0" dur="22s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- MID -->
+  <g fill="#00E5FF">
+    <circle cx="200" cy="250" r="1.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 20 -10; 0 0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="60" r="1.2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -20 10; 0 0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- NEAR -->
+  <g fill="#7F5AF0">
+    <circle cx="300" cy="100" r="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 30 15; 0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="200" r="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -30 -15; 0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ORBIT -->
+  <circle cx="400" cy="160" r="90" stroke="#1f2a44" stroke-width="0.5" fill="none"/>
+
+  <circle r="4" fill="#00E5FF">
+    <animateMotion dur="10s" repeatCount="indefinite">
+      <mpath href="#orbitPath"/>
+    </animateMotion>
+  </circle>
+
+  <path id="orbitPath" d="M 400,160 m -90,0 a 90,90 0 1,1 180,0 a 90,90 0 1,1 -180,0" fill="none"/>
+
+</svg>
 </p>
-
 
 ---
-<p align="center">
 
-<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
-  <img width="380" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=120&section=header&text=🌍%20Portfolio&fontSize=20&fontColor=00E5FF&animation=fadeIn"/>
-</a>
-
-<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
-  <img width="380" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=120&section=header&text=🛰️%20Task%20Manager&fontSize=20&fontColor=00E5FF&animation=fadeIn"/>
-</a>
-
-</p>
 <!-- ==================== ABOUT ==================== -->
 ## 👨‍🚀 About Me
 
-### 🌍 Portfolio
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat&logo=html5&logoColor=00E5FF)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat&logo=css3&logoColor=00E5FF)
-![JS](https://img.shields.io/badge/JS-0D1117?style=flat&logo=javascript&logoColor=00E5FF)
-
 ```txt
-Fresher Software Engineer with a strong focus on clean code,
-problem-solving, and continuous learning.
+Fresher Software Engineer focused on building clean, maintainable,
+and scalable applications.
 
-I enjoy building practical applications, improving performance,
-and exploring modern technologies step by step.
+• Strong foundation in programming fundamentals  
+• Passion for problem-solving and real-world development  
+• Continuously learning and improving every day  
 
-Currently focused on:
-→ Strengthening core programming skills
-→ Building real-world projects
-→ Writing maintainable and scalable code
+Goal: Become a reliable engineer who delivers meaningful software
