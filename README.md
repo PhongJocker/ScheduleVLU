@@ -14,13 +14,24 @@ Run file main_(GUI).py for using this project
 </p>
 
 ---
+<p align="center">
+
+<a href="https://your-project-link.com">
+  <img width="380" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=120&section=header&text=🌍%20Portfolio&fontSize=20&fontColor=00E5FF&animation=fadeIn"/>
+</a>
+
+<a href="https://your-project-link.com">
+  <img width="380" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=120&section=header&text=🛰️%20Task%20Manager&fontSize=20&fontColor=00E5FF&animation=fadeIn"/>
+</a>
+
+</p>
+<!-- ==================== ABOUT ==================== -->
+## 👨‍🚀 About Me
+
 ### 🌍 Portfolio
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat&logo=html5&logoColor=00E5FF)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat&logo=css3&logoColor=00E5FF)
 ![JS](https://img.shields.io/badge/JS-0D1117?style=flat&logo=javascript&logoColor=00E5FF)
-
-<!-- ==================== ABOUT ==================== -->
-## 👨‍🚀 About Me
 
 ```txt
 Fresher Software Engineer with a strong focus on clean code,
