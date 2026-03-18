@@ -6,10 +6,10 @@ Run file main_(GUI).py for using this project
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:6DD5FA&height=180&section=header&text=Phong&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:6DD5FA&height=180&section=header&text=Phong+Jocker&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Phong</h2>
+<h2 align="center">Hi 👋, I'm Phong Jocker</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Fresher+Software+Engineer;Frontend+Developer;Clean+UI+Enthusiast" />
@@ -58,8 +58,8 @@ Run file main_(GUI).py for using this project
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PhongJocker&show_icons=true&hide_border=true"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=PhongJocker&hide_border=true"/>
 </p>
 
 ---
