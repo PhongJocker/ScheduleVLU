@@ -19,11 +19,11 @@ Run file main_(GUI).py for using this project
 
 <p align="center">
 
-<a href="https://your-project-link.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhongJocker&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-<a href="https://your-project-link.com">
+<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhongJocker&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
@@ -33,11 +33,11 @@ Run file main_(GUI).py for using this project
 ---
 <p align="center">
 
-<a href="https://your-project-link.com">
+<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
   <img width="380" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=120&section=header&text=🌍%20Portfolio&fontSize=20&fontColor=00E5FF&animation=fadeIn"/>
 </a>
 
-<a href="https://your-project-link.com">
+<a href="https://github.com/PhongJocker/DemoWebsiteWithAngular">
   <img width="380" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1f2a44&height=120&section=header&text=🛰️%20Task%20Manager&fontSize=20&fontColor=00E5FF&animation=fadeIn"/>
 </a>
 
