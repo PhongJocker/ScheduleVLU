@@ -14,6 +14,23 @@ Run file main_(GUI).py for using this project
 </p>
 
 ---
+<!-- ==================== INTERACTIVE PROJECT CARDS ==================== -->
+## 🚀 Orbiting Missions
+
+<p align="center">
+
+<a href="https://your-project-link.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+</a>
+
+<a href="https://your-project-link.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhongJocker&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+</a>
+
+</p>
+
+
+---
 <p align="center">
 
 <a href="https://your-project-link.com">
